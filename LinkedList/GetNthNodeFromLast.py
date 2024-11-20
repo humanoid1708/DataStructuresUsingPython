@@ -1,4 +1,4 @@
-from Insertion import node, LinkedList
+from LinkedList.BasicFucntions import node, LinkedList
 
 def GetNthFromLast(l1, n):
     curr_node = l1.head

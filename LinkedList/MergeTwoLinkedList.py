@@ -1,4 +1,4 @@
-from Insertion import node, LinkedList
+from LinkedList.BasicFucntions import node, LinkedList
 
 def Merge(l1, l2):
     p = l1.head.next  # Skip the HEAD node for the first list
