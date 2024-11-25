@@ -93,7 +93,7 @@ class DoubLinkedList:
                     curr.prev = None
                     curr.next = None
                     
-
+'''
 obj = DoubLinkedList()
 obj.Append(123)
 obj.Append(456)
@@ -104,6 +104,6 @@ obj.DeleteNode(123)
 obj.Append(104)
 obj.Prepend(103)
 obj.Print()
-            
+'''            
 
         
