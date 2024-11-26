@@ -22,3 +22,4 @@ l1.Append("a")
 l1.Append("r")
 
 print(StringCheck(l1))
+
